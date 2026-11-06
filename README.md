@@ -3,15 +3,9 @@
 </p>
 
 <p align="center">
-  <img width="200" src="https://github.com/AvroraSnezhnaya/AvroraSnezhnaya/blob/cf4f4b78ed263e992f8f5c9d2c0750765d9a5a57/tumblr_4c01c3b7e071998544b73221660c7626_b33cfb41_400.png">
-</p>
-
-<p align="center">
-  <img width="700" src="https://github.com/AvroraSnezhnaya/AvroraSnezhnaya/blob/cf4f4b78ed263e992f8f5c9d2c0750765d9a5a57/tumblr_f4866c52ccedf5949d0faf28b18f3de0_61e0d95b_1280.png">
-</p>
-
-<p align="center">
-  <img width="200" src="https://github.com/AvroraSnezhnaya/AvroraSnezhnaya/blob/cf4f4b78ed263e992f8f5c9d2c0750765d9a5a57/tumblr_a4b78213f42bdd32187b9eb4ba6e1bde_99192704_400.png">
+    <img width="200"  <img src="https://github.com/AvroraSnezhnaya/AvroraSnezhnaya/blob/cf4f4b78ed263e992f8f5c9d2c0750765d9a5a57/tumblr_4c01c3b7e071998544b73221660c7626_b33cfb41_400.png" align="left">
+    <img width="200"  <img src="https://github.com/AvroraSnezhnaya/AvroraSnezhnaya/blob/cf4f4b78ed263e992f8f5c9d2c0750765d9a5a57/tumblr_f4866c52ccedf5949d0faf28b18f3de0_61e0d95b_1280.png">
+    <img width="200"  <img src="https://github.com/AvroraSnezhnaya/AvroraSnezhnaya/blob/cf4f4b78ed263e992f8f5c9d2c0750765d9a5a57/tumblr_a4b78213f42bdd32187b9eb4ba6e1bde_99192704_400.png" align="right">
 </p>
 
 <p align="center">
