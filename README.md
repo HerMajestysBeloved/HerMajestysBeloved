@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="800" src="https://github.com/AvroraSnezhnaya/AvroraSnezhnaya/blob/cf4f4b78ed263e992f8f5c9d2c0750765d9a5a57/tumblr_9acf986af5136fd709490e6fd3317601_75fb53cf_640.gif.webp">
+  <img width="800" src="https://github.com/AvroraSnezhnaya/AvroraSnezhnaya/blob/cf4f4b78ed263e992f8f5c9d2c0750765d9a5a57/tumblr_e6da01e7b244ad3b0f82d409687dced4_7daf7218_500.gif">
 </p>
 
 <p align="center">
@@ -47,5 +47,5 @@
 </p>
 
 <p align="center">
-  <img width="800" src="https://github.com/AvroraSnezhnaya/AvroraSnezhnaya/blob/cf4f4b78ed263e992f8f5c9d2c0750765d9a5a57/tumblr_e6da01e7b244ad3b0f82d409687dced4_7daf7218_500.gif">
+  <img width="800" src="https://github.com/AvroraSnezhnaya/AvroraSnezhnaya/blob/cf4f4b78ed263e992f8f5c9d2c0750765d9a5a57/tumblr_9acf986af5136fd709490e6fd3317601_75fb53cf_640.gif.webp">
 </p>
